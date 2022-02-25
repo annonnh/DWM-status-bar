@@ -19,7 +19,7 @@ HOW TO INSTALL:
 
 ############################# ADVICES ######################################
 
-1- You must use Pamixer, NerdFonts and Xbindkeys to run the script properly.
+1- You must use Pamixer, NerdFonts, Xbindkeys and xorg-xsetroot to run the script properly.
 
 2- This script was made thinking that the user has a .xinitrc configured and use startx to start the DWM.
 
