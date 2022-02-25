@@ -25,6 +25,6 @@ HOW TO INSTALL:
 
 3- You have to copy xsetr.sh to your .xinitrc archive. Don't forget of change the path to the scriptsupdock.sh in the xset.sh script.
 
-4- Please look at this Github account to find out anothers nice tinkers in DWM.
+4- Please look at this Github account to find out another nice tinkers in DWM.
 
 ############################################################################
