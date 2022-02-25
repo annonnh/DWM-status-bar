@@ -1,4 +1,5 @@
 #!/bin/bash
+
 cd ~/dwm_scripts
 while true; do
 	xsetroot -name "$(sh scriptsupdock.sh)"
