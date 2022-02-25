@@ -1,7 +1,7 @@
 # DWM-status-bar
 A simple and elegant bar for DWM using just NerdFonts.
 
-######################################## ADVICES #######################################################
+######################################## ADVICES ########################################################
 
 1- You must use Pamixer, NerdFonts and Xbindkeys to run the script properly.
 
